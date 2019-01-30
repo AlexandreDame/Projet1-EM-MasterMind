@@ -1,0 +1,23 @@
+.img-intro{
+  margin:20px auto;
+  padding: 0;
+}
+
+.intro, #about{
+  margin:0px 20px;
+}
+.intro p{
+  margin:0px; auto;
+}
+#contactLeft, #contactRight{
+  padding: 0;
+  margin:10px auto;
+}
+
+#map iframe{
+  width: 100%;
+}
+#equipe{
+  flex-direction: column;
+  align-items: center;
+}

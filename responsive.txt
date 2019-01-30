@@ -1,0 +1,27 @@
+
+**Header** :
+
+Le logo garde sa dimension, et reste toujours centré sur son background.
+La barre de navigation se réduit en restant sur une seule ligne jusqu'au breakpoint où il disparait (sauf pour l'onglet HOME), un menu hamburger apparait.
+Lorsqu'on clique sur ce dernier, le menu se déroule avec les liens.
+
+
+**Footer** :
+
+Le footer s'adapte en espacement sur une version tablette, pour la version mobile, ce dernier est orienté en colonne et aligné sur la gauche.
+
+
+**Page Accueil** / **Page Contact** / **Page Services** :
+
+Jusqu'au BreakPoint (890px) la page s'adapte au dimensions du support. En dessous du breakPoint, l'ensemble des élements se mettent en colonne
+et utilisent 100% de l'espace disponible, afin d'avoir plus de visibilité en version mobile, les champs "input" deviennent d'avantage accessibles.
+
+La partie "Our Team" s'adapte en 3 colonnes et 2 lignes et pour la version mobile en 2 colonnes et 3 lignes.
+
+
+**Générique** :
+
+Du margin et du padding est utilisé pour soit centrer des images, soit pour éviter que du texte soit collé aux bordures, ceci permet d'avoir plus de clarté
+et de visibilité pour le lecteur.
+
+Remarque générale : en version mobile l'ensemble du site s'organise correctement, en revanche il est nécessaire d'ajuster certains élements pour la version tablette.
